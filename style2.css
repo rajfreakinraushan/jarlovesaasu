@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffe6e6;
+    margin: 0;
+    padding: 0;
+    overflow-y: auto; /* Allow vertical scrolling */
+  }
+  
+  .container {
+    text-align: center;
+    background: #fff0f0;
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+    position: relative;
+    max-width: 500px;
+    margin: 100px auto;
+  }
+  
+  h1, h2 {
+    color: #d6336c;
+  }
+  
+  .gif-placeholder {
+    margin: 20px 0;
+  }
+  
+  .gif-placeholder img {
+    border-radius: 12px;
+  }
+  
+  h1 {
+    font-size: 2em;
+    margin: 20px 0;
+  }
+  
+  h2 {
+    color: #ff66a3;
+    font-size: 1.5em;
+    margin-top: 30px;
+  }
+  
